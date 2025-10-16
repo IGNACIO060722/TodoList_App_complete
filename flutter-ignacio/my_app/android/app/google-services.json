@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "416523251429",
+    "project_id": "ignacio306todolistapp-50a7c",
+    "storage_bucket": "ignacio306todolistapp-50a7c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416523251429:android:ea73dde072feb90e3a6e0c",
+        "android_client_info": {
+          "package_name": "com.example.my_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA7DOZnZgAW3ZM-YrNfwVB_AiXHx3jOlc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
